@@ -1,0 +1,5 @@
+﻿Sauce class is based on buffing alies and debuffing enemies, not dealing much direct damage on it's on.
+All items dealing sauce damage should inherit from the abstract class SauceItem.
+There's two types of Sauce weapons, drops and jars:
+ - Jars are reusable, but have a sauce amount and need to regen after being used too much
+ - Drops are consumable but have no limit
